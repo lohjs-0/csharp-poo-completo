@@ -126,7 +126,7 @@ FASE 4 — Projetos (sem prazo, aprenda no ritmo)
 | [🏦 Banco](projetos/02-sistema-de-banco/README.md) | Contas, depósitos, saques e transferências
 | [⚔️ RPG](projetos/03-rpg-batalha-por-turnos/README.md) | Batalha por turnos com classes e habilidades 
 | [✅ Tarefas](projetos/04-gerenciador-de-tarefas/README.md) | Gerenciar tarefas com prioridade e status 
-| [🌲 Ecossistema](projetos/05-simulador-ecossistema/README.md) | Simulação de um ecossistema onde diferentes espécies interagem
+| [🌿 Ecossistema](projetos/05-simulador-ecossistema/README.md) | Simulação de um ecossistema onde diferentes espécies interagem
 | [🎼 Música](projetos/06-gerador-musica-algoritmica/README.md) | Programa que gera sequências musicais baseadas em regras algorítmicas
 | [🚗 Tráfego](projetos/07-simulador-trafego-urbano/README.md) | Simulação de tráfego em uma pequena cidade com carros, motos, semáforos e cruzamentos.
 
