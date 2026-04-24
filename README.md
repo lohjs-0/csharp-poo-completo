@@ -179,6 +179,45 @@ Ideias de contribuição:
 
 ---
 
+## 🔗 Links Úteis para melhorar seu aprendizado 
+
+### Ferramentas
+| Link | Descrição |
+|------|-----------|
+| [dotnet.microsoft.com/download](https://dotnet.microsoft.com/en-us/download) | Download do .NET SDK |
+| [marketplace.visualstudio.com — C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | Extensão oficial C# para VS Code |
+| [visualstudio.microsoft.com](https://visualstudio.microsoft.com/) | Visual Studio (IDE completo) |
+| [code.visualstudio.com](https://code.visualstudio.com/) | Visual Studio Code (editor leve e gratuito) |
+
+### Documentação Oficial
+| Link | Descrição |
+|------|-----------|
+| [learn.microsoft.com/dotnet/csharp](https://learn.microsoft.com/pt-br/dotnet/csharp/) | Documentação oficial do C# em português |
+| [learn.microsoft.com/dotnet](https://learn.microsoft.com/pt-br/dotnet/) | Documentação do .NET |
+| [learn.microsoft.com/dotnet/csharp/tour-of-csharp](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) | Tour pelo C# para iniciantes |
+| [learn.microsoft.com/dotnet/csharp/programming-guide](https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/) | Guia de conceitos de programação C# |
+
+### Cursos e Trilhas Gratuitas
+| Link | Descrição |
+|------|-----------|
+| [dotnet.microsoft.com/pt-br/learn/csharp](https://dotnet.microsoft.com/pt-br/learn/csharp) | Trilha oficial Microsoft com vídeos e certificação gratuita |
+| [dotnet.microsoft.com/pt-br/learntocode](https://dotnet.microsoft.com/pt-br/learntocode) | Curso passo a passo da Microsoft para iniciantes |
+| [udemy.com — C# gratuito](https://www.udemy.com/pt/topic/c-sharp/free/) | Cursos gratuitos de C# na Udemy |
+
+### Praticar com Exercícios
+| Link | Descrição |
+|------|-----------|
+| [exercism.org/tracks/csharp](https://exercism.org/tracks/csharp/exercises) | 178 exercícios de C# com mentoria da comunidade |
+| [w3schools.com/cs](https://www.w3schools.com/cs/cs_exercises.php) | Exercícios interativos no navegador |
+
+### Comunidade
+| Link | Descrição |
+|------|-----------|
+| [pt.stackoverflow.com](https://pt.stackoverflow.com/) | Stack Overflow em português |
+| [dotnet.microsoft.com/pt-br/platform/community](https://dotnet.microsoft.com/pt-br/platform/community) | Comunidade oficial .NET — fóruns, eventos e blog |
+
+---
+
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
