@@ -128,7 +128,7 @@ FASE 4 — Projetos (sem prazo, aprenda no ritmo)
 | [✅ Tarefas](projetos/04-gerenciador-de-tarefas/README.md) | Gerenciar tarefas com prioridade e status 
 | [🌲 Ecossistema](projetos/05-simulador-ecossistema/README.md) | Simulação de um ecossistema onde diferentes espécies interagem
 | [🎼 Música](projetos/06-gerador-musica-algoritmica/README.md) | Composição, polimorfismo em TocarNota()
-| [🚗 Tráfego](projetos/07-simulador-trafego-urbano/README.md) | Composição Cidade → Rua → Veiculo
+| [🚗 Tráfego](projetos/07-simulador-trafego-urbano/README.md) | Simulação de tráfego em uma pequena cidade com carros, motos, semáforos e cruzamentos.
 
 ---
 
