@@ -69,7 +69,7 @@ FASE 4 — Projetos (sem prazo, aprenda no ritmo)
 
 ---
 
-## 🧪 Exercícios
+## 🧪 Exercícios (Tente realizar os exercícios, e se não conseguir, olhe a solução!)
 
 ### Básico (10 exercícios)
 | # | Exercício |
@@ -115,7 +115,7 @@ FASE 4 — Projetos (sem prazo, aprenda no ritmo)
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos (7 ideias de projetos para praticar!)
 
 | Projeto | Descrição 
 |---------|-----------
