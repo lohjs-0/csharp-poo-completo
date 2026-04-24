@@ -184,4 +184,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ⭐ Se este repositório te ajudou, deixa uma estrela!
 
-> Feito com ❤️ para a comunidade brasileira de desenvolvedores.
+> Feito com ❤️ para os estudantes e desenvolvedores.
