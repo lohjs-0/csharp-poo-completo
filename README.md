@@ -48,8 +48,8 @@ FASE 4 — Projetos (sem prazo, aprenda no ritmo)
 ├── Projeto 3: RPG - Batalha por Turnos
 └── Projeto 4: Gerenciador de Tarefas
 └── Projeto 5: Simulador de Ecossistemas 
-└── Projeto 6: Gerenciador de Música Algoritmica 
-└── Projeto 7: Simulador de Tráfego 
+└── Projeto 6: Gerador de Música Algorítmica 
+└── Projeto 7: Simulador de Tráfego Urbano
 ```
 
 ---
