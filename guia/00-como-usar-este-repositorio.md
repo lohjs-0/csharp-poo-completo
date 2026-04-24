@@ -9,7 +9,7 @@ Bem-vindo! Antes de começar, leia este guia para aproveitar ao máximo o reposi
 - Quem está começando em C# e quer aprender POO do zero
 - Quem já programa em outra linguagem e quer aprender POO com C#
 - Quem já sabe o básico e quer consolidar conhecimentos com exercícios e projetos
-- Professores que querem material pronto para aulas
+- Para quem se interessar
 
 ---
 
