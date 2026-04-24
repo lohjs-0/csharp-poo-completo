@@ -1,6 +1,6 @@
 # 🎓 POO com C# — Repositório Completo de Aprendizado
 
-> Um guia completo, gratuito e em português para aprender **Programação Orientada a Objetos** com **C#** — do zero até projetos reais.
+> Um guia completo, gratuito e em português para aprender **Programação Orientada a Objetos** com **C#**, do zero até projetos reais.
 
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![Nível](https://img.shields.io/badge/Nível-Iniciante%20ao%20Avançado-green?style=for-the-badge)
