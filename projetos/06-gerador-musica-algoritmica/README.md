@@ -1,3 +1,5 @@
+# Projeto 06
+
 # 🎵 Gerador de Música Algorítmica
 
 Programa que gera sequências musicais baseadas em regras algorítmicas. O usuário define escala, ritmo e instrumento, e o gerador cria uma composição única.
