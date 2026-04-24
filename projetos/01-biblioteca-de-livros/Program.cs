@@ -3,7 +3,7 @@ using Biblioteca.Services;
 
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 Console.WriteLine("╔══════════════════════════════════╗");
-Console.WriteLine("║   Sistema de Biblioteca Digital  ║");
+Console.WriteLine("║   Sistema de Biblioteca Digital        ║");
 Console.WriteLine("╚══════════════════════════════════╝\n");
 
 var biblioteca = new BibliotecaService("Biblioteca Municipal de São Paulo");
