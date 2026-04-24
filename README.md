@@ -117,16 +117,15 @@ FASE 4 — Projetos (sem prazo, aprenda no ritmo)
 
 ## 🚀 Projetos
 
-| Projeto | Descrição | Conceitos |
-|---------|-----------|-----------|
-| [📚 Biblioteca](projetos/01-biblioteca-de-livros/README.md) | Sistema de empréstimo de livros | Classes, Listas, Encapsulamento |
-| [🏦 Banco](projetos/02-sistema-de-banco/README.md) | Contas, depósitos, saques e transferências | Herança, Polimorfismo, Exceções |
-| [⚔️ RPG](projetos/03-rpg-batalha-por-turnos/README.md) | Batalha por turnos com classes e habilidades | Abstração, Interfaces, Enums |
-| [✅ Tarefas](projetos/04-gerenciador-de-tarefas/README.md) | Gerenciar tarefas com prioridade e status | Generics, Delegates, Events |
-| [🌲 Ecossistema](projetos/05-simulador-ecossistema/README.md) | Interfaces IPredador/IPresa, herança em cadeia |
-| [🎼 Música](projetos/06-simulador-musica-algoritmica/README.md) | Composição, polimorfismo em TocarNota() |
-| [🚗 Tráfego](projetos/07-simulador-trafego-urbano/README.md) | Composição Cidade → Rua → Veiculo |
-
+| Projeto | Descrição 
+|---------|-----------
+| [📚 Biblioteca](projetos/01-biblioteca-de-livros/README.md) | Sistema de empréstimo de livros
+| [🏦 Banco](projetos/02-sistema-de-banco/README.md) | Contas, depósitos, saques e transferências
+| [⚔️ RPG](projetos/03-rpg-batalha-por-turnos/README.md) | Batalha por turnos com classes e habilidades 
+| [✅ Tarefas](projetos/04-gerenciador-de-tarefas/README.md) | Gerenciar tarefas com prioridade e status 
+| [🌲 Ecossistema](projetos/05-simulador-ecossistema/README.md) | Interfaces IPredador/IPresa, herança em cadeia
+| [🎼 Música](projetos/06-gerador-musica-algoritmica/README.md) | Composição, polimorfismo em TocarNota()
+| [🚗 Tráfego](projetos/07-simulador-trafego-urbano/README.md) | Composição Cidade → Rua → Veiculo
 
 ---
 
