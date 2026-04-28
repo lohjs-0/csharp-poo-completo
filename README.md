@@ -19,7 +19,7 @@ Este repositório cobre **tudo** que você precisa para dominar POO com C#:
 - ✅ Coleções, Generics e Exceções
 - ✅ Boas práticas e padrões de código
 - ✅ 30 exercícios práticos (básico → avançado)
-- ✅ 4 projetos completos e comentados
+- ✅ 7 projetos completos e comentados
 
 ---
 
